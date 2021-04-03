@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @EaMS1234
-- 👀 I’m interested in Science, Aviation, Space and Gaming
-- 🌱 I’m currently learning Python
+## Hello there, World!
+#### _Olá, Mundo!_
+## My name is Erick Augusto, nice to meet ya!
+#### _Meu nome é Erick Augusto, prazer em te conhecer!_
 
-<!---
-EaMS1234/EaMS1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* I'm a brazilian high school student addicted to Gaming, Science and Aviation.
+* Right now I'm struggling to learn Python 🐍!
+
+_Sou Brasileiro e estou cursando o esino médio. Viciado em Video-Games, Ciência e Aviação.
+No momento estou sofrendo pra aprender Python 🐍 !_
