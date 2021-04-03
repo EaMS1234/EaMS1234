@@ -5,4 +5,5 @@
 * Right now I'm struggling to learn Python 🐍!
 
 _Sou Brasileiro e estou cursando o esino médio. Viciado em Video-Games, Ciência e Aviação._
+
 _No momento estou sofrendo pra aprender Python 🐍 !_
