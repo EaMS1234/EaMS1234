@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello there 🇧🇷 <!--Здравствуйте-->
+I'm a computer science student from Brazil, at the Federal Institute of Education, Science and Technology of São Paulo (IFSP).
 
-<!--
-**EaMS1234/EaMS1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Я студент информатики из Бразилии, на Федеральном Институте Образования, Науки и Технологии из Сан-Паулу (IFSP).-->
 
-Here are some ideas to get you started:
+## What am I up to? 👨‍💻 <!--Что я делаю?-->
+Well, I do have some personal projects here and there, but my main focus right now is at the college stuff.
+You can check any of my previous projects' repositories (some intended as a joke, with more serious ones as well) on my profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Ну, у меня есть персональные проекты там и сям, но сейчас, моя главная цель - вещи университета.
+Вы умеете проверять, любой из моих репозиториев проектов (некоторые делал ) в моём профиле.-->
+
+## Interests 💭 <!--Интересы-->
+My main personal interests are aerospace (aviation and astronautics), politics, science as a whole, art and gaming.
+For the technology stuff, I'm into video game development, simulations, and operating systems (mostly systems admnistration).
