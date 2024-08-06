@@ -12,4 +12,4 @@ You can check any of my previous projects' repositories (some intended as a joke
 
 ## Interests 💭 <!--Интересы-->
 My main personal interests are aerospace (aviation and astronautics), politics, science as a whole, art and gaming.
-For the technology stuff, I'm into video game development, simulations, and operating systems (mostly systems admnistration).
+For the technology stuff, I'm into video game development, simulations, and operating systems.
