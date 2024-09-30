@@ -1,15 +1,20 @@
-# Hello there 🇧🇷 <!--Здравствуйте-->
-I'm a computer science student from Brazil, at the Federal Institute of Education, Science and Technology of São Paulo (IFSP).
+# A little about me 🤔 Немного о мне
 
-<!--Я студент информатики из Бразилии, на Федеральном Институте Образования, Науки и Технологии из Сан-Паулу (IFSP).-->
+## Hello there 🇧🇷 Привет
+I'm a brazilian computer science student, at the Federal Institute of Education, Science and Technology of São Paulo (IFSP).
 
-## What am I up to? 👨‍💻 <!--Что я делаю?-->
+Я бразилец, студент информатики в Федеральном Институте Образования, Науки и Техника из Сан-Паулу (ИФСП | IFSP).
+
+### What I'm doing 👨‍💻 Что делаю
 Well, I do have some personal projects here and there, but my main focus right now is at the college stuff.
-You can check any of my previous projects' repositories (some intended as a joke, with more serious ones as well) on my profile.
+You can check any of my previous projects' repositories (some of them are jokes, but there are some serious ones as well) on my profile.
 
-<!--Ну, у меня есть персональные проекты там и сям, но сейчас, моя главная цель - вещи университета.
-Вы умеете проверять, любой из моих репозиториев проектов (некоторые делал ) в моём профиле.-->
+Ну, у меня есть немного проекты, но моя глaвная цель тепер вещи факультета.
+Вы можете видеть любой из репозиториев моих предыдущего проектов (некоторые шутки, но также с некоторыми серьёзные) на моём профиле.
 
-## Interests 💭 <!--Интересы-->
-My main personal interests are aerospace (aviation and astronautics), politics, science as a whole, art and gaming.
+### Interests 💭 Что мне нравится
+My main personal interests are aviation, astronautics, politics, science as a whole, art and gaming.
 For the technology stuff, I'm into video game development, simulations, and operating systems.
+
+Я главно люблю авиацию, космонавтику, политику, науку совсем, искусство и видео-игры.
+Но для техники, мне нравится прогроммирование видео-игр, симуляции и операционной системы.
