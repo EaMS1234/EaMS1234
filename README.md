@@ -16,5 +16,5 @@ You can check any of my previous projects' repositories (some of them are jokes,
 My main personal interests are aviation, astronautics, politics, science as a whole, art and gaming.
 For the technology stuff, I'm into video game development, simulations, and operating systems.
 
-Я главно люблю авиацию, космонавтику, политику, науку совсем, искусство и видео-игры.
+Я больше люблю авиацию, космонавтику, политику, науку совсем, искусство и видео-игры.
 Но для техники, мне нравится прогроммирование видео-игр, симуляции и операционной системы.
