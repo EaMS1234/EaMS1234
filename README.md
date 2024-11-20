@@ -1,6 +1,6 @@
 # A little about me 🤔
 
-## Hello there 🇧🇷
+### Hello there 🇧🇷
 I'm a brazilian computer science student, at the Federal Institute of Education, Science and Technology of São Paulo (IFSP).
 
 ### What I'm doing 👨‍💻
